@@ -1,4 +1,6 @@
-Bangkit 2021 Capstone Team : Law's Tech Team (B21-CAP0036)
+![Asset 1.png](https://github.com/Agrafast/agrafast/blob/85b1c8203b6ce8c9cd433bdfe4afee831810c1a1/Asset%201.png)
+
+Bangkit 2023 Capstone Team : Agrafast (C23-PS290)
 Hello everyone!. Here is our Agrafast Github Account for Bangkit 2022 Capstone project. Our team consist of 2 Machine Learning, 2 Android, and 2 Cloud Computing.
 
 Our Knights
