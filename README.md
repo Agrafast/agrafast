@@ -1,18 +1,19 @@
-![Asset 1.png](https://github.com/Agrafast/agrafast/blob/85b1c8203b6ce8c9cd433bdfe4afee831810c1a1/Asset%201.png)
+<img src="https://github.com/Agrafast/agrafast/blob/85b1c8203b6ce8c9cd433bdfe4afee831810c1a1/Asset%201.png" width="300" heigth = "auto"> 
 
 ## Bangkit 2023 Capstone Team : Agrafast (C23-PS290)
 
-Hello everyone!. Here is our Agrafast Github Account for Bangkit 2022 Capstone project. Our team consist of 2 Machine Learning, 2 Android, and 2 Cloud Computing.
+Hello everyone!. Here is our Agrafast Github Account for Bangkit 2023 Capstone project. Our team consist of 2 Machine Learning, 2 Android, and 2 Cloud Computing.
 
-Our Knights
-| Name                             | Learning Path      |
-| -------------------------------- | ------------------ |
-| Muhamad Nizamudin                | Machine Learning   |
-| Fiqry Wahyu Diki Wicaksono       | Machine Learning   |
-| Yoena Rindu Perdana              | Cloud Computing    |
-| Sri Rahayu Indian                | Cloud Computing    |
-| Hafez Almirza                    | Mobile Development |
-| Farhan Ghafara                   | Mobile Development |
+## Agrafast Team
+
+| Name                             | Learning Path      | Bangkit ID   |
+| -------------------------------- | ------------------ | ------------ |
+| Muhamad Nizamudin                | Machine Learning   | M366DSX2341  |
+| Fiqry Wahyu Diki Wicaksono       | Machine Learning   | M366DSX2159  |
+| Yoena Rindu Perdana              | Cloud Computing    | C366DSY2639  |
+| Sri Rahayu Indiani               | Cloud Computing    | C109DSY2384  |
+| Hafez Almirza                    | Mobile Development | A121DKX4585  |
+| Farhan Ghafara                   | Mobile Development | A330DSX1257  |
 
 ## Abstract
 
